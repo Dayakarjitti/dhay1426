@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @dhay1426(Dayakarjitti)
 - 👀 I’m interested in ...cybersecurity,C#,C and Java,Dotnet development
-- 🌱 I’m currently learning ...cybersecurity,C#,.net development
+- 🌱 I’m currently learning ...cybersecurity,C#,java full stack 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ...@dhay1426
 - 😄 Pronouns: ... "dhay".....
 - ⚡ Fun fact: ... '_'
 
